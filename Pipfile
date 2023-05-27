@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+openai = "*"
+rich = "*"
+google-search-results = "*"
+
+[dev-packages]
+black = "*"
+mypy = "*"
+debugpy = "*"
+pylint = "*"
+python-lsp-server = "*"
+python-lsp-black = "*"
+pyls-isort = "*"
+isort = "*"
+pylsp-mypy = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.11"
