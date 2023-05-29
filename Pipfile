@@ -7,8 +7,20 @@ name = "pypi"
 langchain = "*"
 requests = "*"
 black = "*"
+tweepy = "*"
+python-dateutil = "*"
 
 [dev-packages]
+black = "*"
+mypy = "*"
+debugpy = "*"
+pylint = "*"
+python-lsp-server = "*"
+python-lsp-black = "*"
+pyls-isort = "*"
+isort = "*"
+pylsp-mypy = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.11"

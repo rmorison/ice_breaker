@@ -1,0 +1,377 @@
+{
+  "public_identifier": "rodmorison",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rodmorison/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d8fa97e49f92eb38f55f5814536275c78e10fa1b9bc4720c37f6aaf455793994",
+  "background_cover_image_url": null,
+  "first_name": "Rod",
+  "last_name": "Morison",
+  "full_name": "Rod Morison",
+  "follower_count": 1166,
+  "occupation": "Principal Architect at Aspiration",
+  "headline": "I build software that works, tools that solve problems, and teams that execute with confidence",
+  "summary": "I excel at building high functioning teams, designing robust system architectures, and launching products from MVP to successive releases. I am versatile, able to take on the roles of CTO, Software Architect, or Principal Engineer. I help bridge the gap between engineering leadership and individual contributors.\n\nI lead by example to set high standards for code quality, technology adoption, platform security, and automation. My extensive knowledge of computing technology and passion for well-crafted products serves to inspire colleagues and mentor junior staff.\n\nI am committed to open channels of communication between engineering, product, and business teams, to improve product quality and business efficiency. I strive to be at the nexus of product, project, and business-critical information flows.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Altadena",
+  "state": "California",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Aspiration",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aspiration-investments/",
+      "title": "Principal Architect",
+      "description": "\u2022 Led the adoption of gRPC/Protobuf for contract based service design as part of a migration from Java to Go/Python based monolith-to-microservice rebuild.\n\u2022 Worked with Devops to revise and improve scale, cost, and observability of AWS platform deployment.\n\u2022 Designed and co-developed a user activity fraud detection and forensic review platform using ML (Python, scikit-learn).\n\u2022 Evaluated and advised on key 3rd party integrations for consumer banking products, infosec, and devops.\n\u2022 Established architecture review process and decision record documentation system.\n\u2022 Worked with business verticals to best Domain Driven Design practices, particularly Ubiquitous Language and Bounded Contexts.\n\u2022 Mentored staff and established new documentation standards for RFCs, TDDs and ADRs.\n\u2022 Established a \u201cStaff Engineering\u201d career track and mentored Sr Eng candidates towards Principal Engineer career goals.\n\u2022 Led a team of direct PE reports.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aspiration-investments/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4e283b998b909d1e86ee50e34daa52ecc5ce22f2c03aab59b997a518b873c069"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "Slated, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sl8d/",
+      "title": "Chief Technology Officer",
+      "description": "\u2022 Rebuilt Slated\u2019s engineering team after NYC to LA relocation.\n\u2022 Refactored AWS cloud implementation for scale, rewrote CI/CD, established branch/environment based promotion to production process.\n\u2022 Built offshore team to increase delivery velocity.\n\u2022 Refactored backend through multiple versions of Python and Django.\n\u2022 Built film analytics ML pipeline including scrapers, ETL, and normalization for analytics.",
+      "location": "Greater Los Angeles Area",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/sl8d/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f37bfd59b8389bf7ecf1838f95031b951fee01647cddb678e58d5cd6eacb29fc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "company": "Apposite Technologies",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apposite-technologies/",
+      "title": "Director of Software Engineering",
+      "description": "\u2022 Rebuilt and ran Apposite\u2019s network test equipment e2e validation system.\n\u2022 Migrated code management from svn to git, updated build systems.",
+      "location": "Greater Los Angeles Area",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/apposite-technologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=43eb1b1e28da68d90b54b833440d814730fe09d95c187fa9311cd7ea287ca48e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "Cloudpic Global, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cloudpic-global-inc./",
+      "title": "Software Architect",
+      "description": "\u2022\tDeveloped features and debugged performance in Python & C++ for a \"P2P Dropbox\" product\n\u2022\tDesigned and developed RESTful web api using CherryPy (but wish I was using django_rest_framework)\n\u2022\tBuilt highly scaled test automation system for LAN and WAN performance+load test using VirtualBox, VMWare and EC2 infrastructure and APIs\n\u2022\tHelped define management, SCM and release process based on Scrum for Cloudpic's distributed telecommute engineering environment\n\u2022\tDesigned, implemented and packaged Python toolkits for use with various web APIs",
+      "location": "Altadena, CA",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cloudpic-global-inc./profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=26ea849b1c2f728d51bf4a290d2688664e3da71aa4ec85e41096c4d2a2a574f7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "company": "FastSoft",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fastsoft/",
+      "title": "Software Lead",
+      "description": "\u2022\tArchitected and implemented FastSoft\u2019s SNMP service using Net-Snmp and OpenNMS.\n\u2022\tDeveloped/shipped custom MIB and wrote SNMP agent for E-Series network accelerator.\n\u2022\tDiagnosed TCP CWND behavior for FAST (http://netlab.caltech.edu/FAST). Profiled BSD kernel mbufs (packet storage) for increased 10gig TCP throughput.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/fastsoft/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c59060bf62e302e4fbe5182c066a06784f2722c73b506bdcef9c21ee13dac0cc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "Rod Morison Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rod-morison-software/",
+      "title": "Consulting Software Engineer",
+      "description": "Contract software R&D, technology valuation, and project assessments. Key technologies are:\n\u2022\tPython, Django, including web, DBMS, NoSQL, data science and machine learning applications\n\u2022\tElasticsearch, PostgreSQL, Redis, and RabbitMQ for search, data schema design, high performance caching and async processing\n\u2022\tAngular and Ionic for web and mobile UX; top-level use case modelling and site architecture\n\u2022\tWeb and email operations setup, maintenance, and network security\n\u2022\tLinux and Linux cloud platform systems engineering and applications: Ubuntu, bash & Linux CLI tools, C/C++, etc. on AWS, Digital Ocean and others\n\u2022\tAgile and Scrum base software development workflows and toolchains",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/rod-morison-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=861f39e0cf91c160e32f8605ee0d513e52b0b2d28565235cb48aa3fe41ce302a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2005
+      },
+      "company": "Rod Morison Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rod-morison-software/",
+      "title": "Software Development Consultant",
+      "description": "\u2022\tDeveloped ClickMix (MP3 player/mixer app) through two major and several minor releases (C++ & WxWidgets on Windows & MacOS).\n\u2022\tExtended Rssbandit (RSS feed reader) for multi-string scanning and display of RSS feeds.  Used 3rd party WinForms widgets from www.glacialcomponents.com and www.divil.co.uk/net\n\u2022\tWrote C#/ASP.NET code to extend features of www.realenergy.com and www.eurorient.com.\n\u2022\tImplemented rewrite of www.remeyewear.com website in PHP on LAMP to customer spec.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/rod-morison-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=861f39e0cf91c160e32f8605ee0d513e52b0b2d28565235cb48aa3fe41ce302a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2008
+      },
+      "company": "Earthlink, Inc",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/earthlink/",
+      "title": "Principal Engineer",
+      "description": "\u2022\tArchitected C++/C# SDK for Vling/MindSpring \u201cskype-like\u201d softphone. Lead dev team through several release cycles; worked with Product to set business &amp; technical goals. Mindspring achieved 100k+ distribution. \n\u2022\tConsulted to Muni-WiFi division on location detection algorithms for IP &amp; WiFi-triangulated geo targeting/local search. Investigated Akamai and SkyHook Wireless technologies. Worked with SkyHook SDK..\n\u2022\tDesigned prototype XMPP presence service for Helio mobile phones using Djabberd.\n\u2022\tLead tech team transitioning PeoplePC engineering from San Francisco to Pasadena. Documented system architecture and processes. Oversaw knowledge transfer assignments.\n\u2022\tRe-engineered PeoplePC lifecycle process using Jira. Built workflow and role based assignment and notification site. Trained engineering and product staff.\n\u2022\tAnalyzed and planned Earthlink-wide future Akamai usage. Recommended $250k per year savings by reducing in contract minumum.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/earthlink/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=da385ce919db98617442c85363d17072e811c8c43d15772a27de12fbbefa15c0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "company": "Infostreet, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/infostreet/",
+      "title": "VP Engineering",
+      "description": "\u2022 Led software development team and product deployment process. \n\u2022 Introduced Agile/Scrum best practices, code reviews, release management, test automation and regression test.\n\u2022 Scaled high volume production email system peered into multiple backbones.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/infostreet/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d00a760cb161f3f3e48a80e4a9b503a145f9963c84871934aced34556459806"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2004
+      },
+      "company": "Ixia Communications",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/keysight-visibility-network-test-security/",
+      "title": "Manager, IxOS Product Development",
+      "description": "\u2022 Established the IxOS core platform team.\n\u2022 Designed a software quality process for zero known defect releases.\n\u2022 Led security hardening user facing of Windows device management application",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/keysight-visibility-network-test-security/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230529%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230529T180346Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=aaf8e34f375bf9ce1006f6ac4266e8e9fdcde713324019c573fe88fda1f4fbb9"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Applied Math",
+      "degree_name": "BS",
+      "school": "Caltech",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C510BAQFCGqEmSwrc4w/company-logo_400_400/0/1519855864424?e=1692835200&v=beta&t=cWpQ_cz8slLHcaQz8vmXrTzKh7lgSCtd_BrSLheQN0s",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [
+    {
+      "title": "A TECHNIQUE FOR ENHANCING CLICK-DRAG OPERATIONS IN USER INTERFACES\"",
+      "issuer": "us",
+      "issued_on": null,
+      "description": null,
+      "application_number": "n/a",
+      "patent_number": null,
+      "url": null
+    },
+    {
+      "title": "Method for data broadcasting",
+      "issuer": "us",
+      "issued_on": null,
+      "description": null,
+      "application_number": "WO 2002078258 A2",
+      "patent_number": null,
+      "url": null
+    },
+    {
+      "title": "Efficient large scale broadcasting on local area Networks served by high speed terrestrial or satellite communication links",
+      "issuer": "us",
+      "issued_on": null,
+      "description": null,
+      "application_number": "n/a",
+      "patent_number": null,
+      "url": null
+    }
+  ],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2022
+      },
+      "title": "FastAPI Search Cookiecutter",
+      "description": "What\u2019s fapi?\n\nMany times I\u2019ve needed a SQL plus NOSQL/Search microservice backend and have spun up several now, including Django+Postgres+Solar, Flask+Algolia, and other combinations. The one I plan to use next is FastAPI + Elasticsearch (or the Amazonian Opensearch alternative.)\n\nInstead of waiting and building yet another one-off codebase under time pressure, I\u2019m standardizing this micro-stack ahead of time. With time to go deep with the architecture, I can bolt in best practices that often get left on the cutting room floor, such as\n\n- Fully normalized formatting and linting\n- Full use of Python async on the frontside (APIs) and the backside (search and RDBMS requests)\n- A code layout that standardizes versioned APIs, CLI commands, background tasks, and built-in OpenAPI/Swagger support\n- A standard test methodology that includes mock driven unit tests and full stack data tests\n- Well built Docker support, including a tight production image and docker compose support for fully functional instant infrastructure\n- Scripts for 1 liner builds, lints, and test runs\n\nWhat would I use this for?\n\nLaunching your next awesome scalable search service or fast lookup microservice.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": null,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/keswanikaran",
+      "name": "Karan Keswani",
+      "summary": "CTO | Founder | Mentor | Hands on Architect",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-finkel",
+      "name": "Sean Finkel",
+      "summary": "Senior Technical Lead @ Lawmatics",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/noeleenlivingstone",
+      "name": "Noeleen Livingstone",
+      "summary": "Engineering leader",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-mcelfresh",
+      "name": "Charlie McElfresh",
+      "summary": "Director, Platform Engineering",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/genechuang",
+      "name": "Gene Chuang",
+      "summary": "Head Nerd in Charge at FloSports",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodneybarlow",
+      "name": "Rodney Barlow",
+      "summary": "CTO at Sidecar Health",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-lloyd-583613196",
+      "name": "Liam Lloyd",
+      "summary": "Senior Software Engineer at The Permanent Legacy Foundation",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-crowder",
+      "name": "Nicholas Crowder",
+      "summary": "iOS at Cash App",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-shirey-b64b426",
+      "name": "Andy Shirey",
+      "summary": "Experienced backend developer (python/java/go) with recent focus in search, ML, and cloud-based data pipelines",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreicherny",
+      "name": "Andrei Cherny",
+      "summary": "Entrepreneur/Innovator in Sustainable Finance, CleanTech, FinTech, and Carbon Removal",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Barry Mulling\n\n\n\nI consider Rod to be one of my biggest role models in the business. Working with Rod taught me a great deal about how to think about large-scale engineering problems, how to implement them, and how to promote a healthy, vibrant engineering culture. He enthusiastically shared his knowledge and skills and made everyone who worked with him better engineers and technologists. He has enough in-depth knowledge and experience to have strong opinions, but with a sense of practicality and balance that ensures that the perfect isn't the enemy of the good. If I'm half as good as Rod ten years from now I'll consider myself a raging success.",
+    "Rudi Cilibrasi\n\n\n\nRod Morison achieves the rare combination of technical brilliance and\r\ninspirational management style.  He is able to code with ingenuity in\r\nall the languages his team needs, and can thus pick up the slack\r\nwherever his team needs help without overextending himself.  But he is\r\nalso able to delegate effectively, utilizing the special capability of\r\neach of his reports to the fullest extent and according to their\r\nworking style.  He is efficient with self-managing developers yet\r\nprovides ample direction for those that need more guidance.  He is\r\nperfectly comfortable designing great software architecture and\r\nutilizing the latest scientific literature for complex algorithm\r\ndevelopment.  He does all this within the context of critical business\r\npriorities and schedules and his track record shows it.  You can rely\r\non Rod to build and manage a team to get the job done right.",
+    "Tom Longson\n\n\n\nRod is a good manager, not only because he knows how to keep a team moving forward, but also isn't afraid to get his hands dirty and dig into serious codebase. I only worked under Rod for a brief period, but I appreciated his professionalism and believe he is a strong asset to any tech shop.",
+    "Diego Dugatkin\n\n\n\nRod did a great job at Ixia, successfully managing the development of the highly complex IxOS operating system and its directly associated products.  His ability to communicate clearly, together with very strong technical and organizational skills were essential for the several product releases during Rod's tenure.\r\nRod's breath and depth are a true asset for any engineering organization.",
+    "Myron A.\n\n\n\nRod is a smart manager, very techically capable and a pleasure to work with.  We had many great brainstorming sessions to improve the product, and Rod always had good ideas. I'd highly recommend Rod for either a software development management/executive position or a hands-on development position.",
+    "Bo Adler\n\n\n\nRod did an amazing job at bringing to life what seemed like an impossible task!  Pulling together developers from across the country, he worked with each one on the hurdles of how the technology might work.  Final integration of our pieces was a breeze as well, a credit to Rod's involvement at just the right level to keep things moving at a brisk pace."
+  ],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Rod Morison, M.M.",
+      "link": "https://uk.linkedin.com/in/rod-morison-m-m-4600ab64",
+      "summary": "Retired at Royal Marine Retired",
+      "location": "Peterborough"
+    },
+    {
+      "name": "Rod Morison",
+      "link": "https://ca.linkedin.com/in/rod-morison-b7958a154",
+      "summary": "Owner at Morison Farms Ltd",
+      "location": "Rocky View County, AB"
+    },
+    {
+      "name": "Rod Morison",
+      "link": "https://ca.linkedin.com/in/rod-morison-071a3631",
+      "summary": "Owner, 1145675",
+      "location": "Airdrie, AB"
+    },
+    {
+      "name": "Rod Morison Test Account",
+      "link": "https://www.linkedin.com/in/rod-morison-test-account-36555b66",
+      "summary": "Tester at Rod Morison Software",
+      "location": "Altadena, CA"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "phone_numbers": [],
+  "social_networking_services": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
